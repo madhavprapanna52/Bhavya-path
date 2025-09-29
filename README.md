@@ -15,3 +15,28 @@ Features to target
         - Camera based monitoring of ride for pasenger safety
         - Emergency services mechanism trigerring alerts and emergency situation to ensure pessanger safety 
 
+Project structure
+.
+├── back-end
+│   ├── Alert_Mechanism
+│   │   ├── Climatic-issues
+│   │   │   └── climate_alert.txt
+│   │   └── Emergency
+│   │       └── emergency.txt
+│   ├── Algorithms
+│   │   └── algo.txt
+│   ├── API
+│   │   └── api.txt
+│   ├── DB-unit
+│   │   └── db.txt
+│   ├── documentation.txt
+│   ├── main.py
+│   └── ML_unit
+│       └── ml.txt
+├── front-end
+│   └── frontend.txt
+├── Project_documentation.txt
+├── README.md
+└── TEAM-doc
+    ├── Execution_plan.txt
+    └── task_distribution.txt
